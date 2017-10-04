@@ -37,8 +37,3 @@ HDFSConnector.java requires Hadoop dependencies in order to communicate with a H
 ```
 
 Once the dependencies have been included in the project, just drag and drop HDFSConnector.java into your project's folder and include it in your development classes to start using its functionalities.
-
-
-
-### Usage
-(TODO)
